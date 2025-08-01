@@ -23,3 +23,5 @@ tipo que representa uma coleção de organizados por chaves únicas e seus respe
 ===
 
 No Ruby não é preciso definir o tipo de dado antes de atribuir um valor à uma variável. O tipo é dinâmico, ou seja, ele é definido de acordo com o dado atribuído.
+
+==
